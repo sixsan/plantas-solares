@@ -1,0 +1,18 @@
+# Entornos virtuales
+.entorno/
+.venv/
+env/
+venv/
+
+# Python caché
+__pycache__/
+*.py[cod]
+
+# Bases de datos SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing
+.pytest_cache/
+.coverage
